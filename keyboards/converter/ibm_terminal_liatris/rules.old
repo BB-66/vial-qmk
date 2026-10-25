@@ -1,0 +1,5 @@
+CUSTOM_MATRIX = yes
+SRC += matrix.c
+
+PS2_ENABLE = yes
+PS2_DRIVER = vendor
